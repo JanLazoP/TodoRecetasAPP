@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TodoRecetas</string>
+    <string name="btn_Registrar">Crear Una Cuenta</string>
+    <string name="btn_Recuperar">Restablecer Contraseña</string>
+    <string name="titulo">Bienvenido!</string>
+    <string name="recuperar">Ingresa Tu Correo!</string>
+    <string name="recuperar2">Recupera Tu Contraseña</string>
 </resources>
