@@ -18,8 +18,8 @@
         android:layout_height="wrap_content"
         android:fitsSystemWindows="true"
         android:layout_gravity="start"
-        app:headerLayout=""
-        app:menu=""
+        app:headerLayout="@layout/header"
+        app:menu="@menu/menu"
         />
 
 </androidx.drawerlayout.widget.DrawerLayout>
