@@ -5,4 +5,6 @@
     <string name="titulo">Bienvenido!</string>
     <string name="recuperar">Ingresa Tu Correo!</string>
     <string name="recuperar2">Recupera Tu Contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
